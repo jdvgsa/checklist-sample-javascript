@@ -1,7 +1,7 @@
-h1 {
+/* h1 {
   display: flex;
   justify-content: center;
-}
+} */
 
 /* Include the padding and border in an element's total width and height */
 * {
@@ -42,7 +42,7 @@ ul li:hover {
 
 /* When clicked on, add a background color and strike out text */
 ul li.checked {
-  background: #888;
+  background: #058b26;
   color: #fff;
   text-decoration: line-through;
 }
@@ -70,7 +70,7 @@ ul li.checked::before {
 }
 
 .close:hover {
-  background-color: #f44336;
+  background-color: #087ae6;
   color: white;
 }
 
